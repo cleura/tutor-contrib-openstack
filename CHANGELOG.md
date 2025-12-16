@@ -1,3 +1,7 @@
+## Unreleased
+
+* Point release to mark the GitHub repository move.
+
 ## Version 2.1.0 (2024-10-15)
 
 * [Enhancement] Add the ability to run the registry in read-only mode: `tutor openstack registry --read-only`.

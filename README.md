@@ -9,6 +9,8 @@ This plugin (indirectly) relies on the availability of the Swift backend driver 
 
 As such, we have no plans to support this plugin beyond the Tutor 18/Open edX "Redwood" release, and encourage users to switch to a registry other than the built-in private registry that comes with OpenStack Magnum.
 
+This repository was previously hosted under the `hastexo` GitHub organization, and moved to `cleura` in December 2025 as part of a routine repository consolidation.
+
 * * *
 
 This **experimental** plugin adds a `tutor openstack` command group to
@@ -50,7 +52,7 @@ appropriate one:
 ## Installation
 
 ```
-pip install git+https://github.com/hastexo/tutor-contrib-openstack@v2.1.0
+pip install git+https://github.com/cleura/tutor-contrib-openstack@v2.1.0
 ```
 
 

@@ -15,10 +15,10 @@ def load_readme():
 setup(
     name="tutor-contrib-openstack",
     use_scm_version=True,
-    url="https://github.com/hastexo/tutor-contrib-openstack",
+    url="https://github.com/cleura/tutor-contrib-openstack",
     project_urls={
-        "Code": "https://github.com/hastexo/tutor-contrib-openstack",
-        "Issue tracker": "https://github.com/hastexo/tutor-contrib-openstack/issues",  # noqa: E501
+        "Code": "https://github.com/cleura/tutor-contrib-openstack",
+        "Issue tracker": "https://github.com/cleura/tutor-contrib-openstack/issues",  # noqa: E501
     },
     license="AGPLv3",
     author="Florian Haas",
